@@ -14,9 +14,7 @@ A fully responsive, multi-page marketing agency website built for **Lumèn** —
 
 > _Add `screenshot.png` to the project root to display here._
 
-<!--
 ![Lumèn Agency Screenshot](./screenshot.png)
--->
 
 ---
 
